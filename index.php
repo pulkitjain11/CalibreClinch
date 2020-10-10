@@ -80,8 +80,8 @@ http://www.templatemo.com/tm-486-new-event
 		<div class="row">
 
 			<div class="col-md-12 col-sm-12" style="color:#1d617a">
-				<h3 class="wow bounceIn" data-wow-delay="0.9s">October 29</h3>
-				<h1 class="wow fadeInUp" data-wow-delay="1.6s">Mental Ability Test</h1>
+				<h3 class="wow bounceIn" data-wow-delay="0.9s">October 11-15</h3>
+				<h1 class="wow fadeInUp" data-wow-delay="1.6s">Recruiting Campus Ambassadors</h1>
 				<a href="#overview" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">LEARN MORE</a>
 				<a href="#register" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">REGISTER NOW</a>
 			</div>
@@ -104,7 +104,7 @@ http://www.templatemo.com/tm-486-new-event
 			<div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
 				<i class="fa fa-group"></i>
 				<h3>500 Participants</h3>
-				<p>Participants from various educational institutions across the country provide a very competitive platform</p>
+				<p>Participants from various educational institutions across the country provide a very competitive platform.</p>
 			</div>
 
 			<div class="wow fadeInUp col-md-4 col-sm-4" data-wow-delay="0.6s">
@@ -115,7 +115,7 @@ http://www.templatemo.com/tm-486-new-event
 
 			<div class="wow fadeInRight col-md-4 col-sm-4" data-wow-delay="0.9s">
 				<i class="fa fa-microphone"></i>
-				<h3>11 Speakers</h3>
+				<h3>5 Speakers</h3>
 				<p>Get a chance to gain experience from the experienced through various webinars and seminars.</p>
 			</div>
 
@@ -226,7 +226,7 @@ http://www.templatemo.com/tm-486-new-event
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h6>
-								<span><i class="fa fa-calendar"></i>3-4 OCT 2020</span>
+								<span><i class="fa fa-calendar"></i> 3-4 OCT 2020</span>
 							</h6>
 							<h3><a href="https://back2schoolvit.in/">Back-2-school</a> </h3>
 							<p>A national-level online event having almost 500 participants who competed in 3 different categories for exciting cash prizes.</p>
@@ -275,7 +275,7 @@ http://www.templatemo.com/tm-486-new-event
 
 						<!-- program speaker here -->
 						<div class="col-md-2 col-sm-2">
-							<img src="images/program-img8.jpg" class="img-responsive" alt="program">
+							<img src="images\internship.png" class="img-responsive" alt="program">
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h6>
