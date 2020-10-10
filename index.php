@@ -159,7 +159,7 @@ http://www.templatemo.com/tm-486-new-event
 			<div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="0.4s">
 				<div class="section-title">
 					<h2>Our Programs</h2>
-					<p>Quisque ut libero sapien. Integer tellus nisl, efficitur sed dolor at, vehicula finibus massa. Sed tincidunt metus sed eleifend suscipit.</p>
+					<p>When you see an opportunity, CLINCH it!!</p>
 				</div>
 			</div>
 
