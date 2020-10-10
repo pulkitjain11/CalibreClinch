@@ -82,8 +82,8 @@ http://www.templatemo.com/tm-486-new-event
 			<div class="col-md-12 col-sm-12" style="color:#1d617a">
 				<h3 class="wow bounceIn" data-wow-delay="0.9s">October 11-15</h3>
 				<h1 class="wow fadeInUp" data-wow-delay="1.6s">Recruiting Campus Ambassadors</h1>
-				<a href="#overview" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">LEARN MORE</a>
-				<a href="#register" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">REGISTER NOW</a>
+				<a href="#program" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">LEARN MORE</a>
+				<a href="register.php" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">REGISTER NOW</a>
 			</div>
 
 
@@ -195,7 +195,7 @@ http://www.templatemo.com/tm-486-new-event
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h6>
-								<span><i class="fa fa-calendar"></i>To be Disclosed</span>
+								<span><i class="fa fa-calendar"></i> To be Disclosed</span>
 							</h6>
 							<h3>Webinar</h3>
 							<p>Have a chance to talk to the expert and let yourself the privilege to decide your future with the right guidance and zero doubts.</p>
@@ -264,7 +264,7 @@ http://www.templatemo.com/tm-486-new-event
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h6>
-								<span><i class="fa fa-clock-o"></i>Active</span>
+								<span><i class="fa fa-clock-o"></i> Active</span>
 							</h6>
 							<h3><a href="register.php">Campus Ambassador</a></h3>
 							<p>Be the main campaigner of the firm at your campus to help us increase our reach. </p>
@@ -279,9 +279,9 @@ http://www.templatemo.com/tm-486-new-event
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h6>
-								<span><i class="fa fa-clock-o"></i>Active</span>
+								<span><i class="fa fa-clock-o"></i> Active</span>
 							</h6>
-							<h3>Internship</h3>
+							<h3><a href="register.php">Internship</a></h3>
 							<p>Get a certified paid internship opportunity at our firm. Be part of the management team and earn experience and increase your contacts.</p>
 						</div>
 
@@ -296,7 +296,7 @@ http://www.templatemo.com/tm-486-new-event
 							<h6>
 								<span><i class="fa fa-clock-o"></i>Active</span>
 							</h6>
-							<h3>Technical</h3>
+							<h3><a href="register.php">Technical</a></h3>
 							<p>Be part of our technical team and showcase your skills in the departments of website development,app development and designing.</p>
 						</div>
 
