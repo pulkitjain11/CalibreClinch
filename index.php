@@ -50,7 +50,7 @@ http://www.templatemo.com/tm-486-new-event
 				<span class="icon icon-bar"></span>
 				<span class="icon icon-bar"></span>
 			</button>
-			<a href="#" class="navbar-brand">Calibre Clinch</a>
+			<a href="index.php" class="navbar-brand">Calibre Clinch</a>
 		</div>
 
 		<div class="collapse navbar-collapse">
@@ -319,8 +319,7 @@ http://www.templatemo.com/tm-486-new-event
 
 			<div class="wow fadeInUp col-md-7 col-sm-7" data-wow-delay="0.4s">
 				<h2>Register Here</h2>
-				<h3>Nunc eu nibh vel augue mollis tincidunt id efficitur tortor. Sed pulvinar est sit amet tellus iaculis hendrerit.</h3>
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet consectetuer diam nonummy.</p>
+				<h3>Become a part of the family and Clinch your Calibre.</h3>
 			</div>
 
 			<div class="wow fadeInUp col-md-5 col-sm-5" data-wow-delay="0.8s">
@@ -535,7 +534,7 @@ http://www.templatemo.com/tm-486-new-event
 						<img src="images\tarkesh.png" class="img-responsive" alt="tarkesh">
 							<div class="speakers-thumb">
 								<h3>Tarkesh Deore</h3>
-								<h6>Co Founder</h6>
+								<h6>Co-Founder</h6>
 							</div>
 					</div>
 				</div>
@@ -545,7 +544,7 @@ http://www.templatemo.com/tm-486-new-event
 						<img src="images\pulkit.png" class="img-responsive" alt="pulkit">
 							<div class="speakers-thumb">
 								<h3>Pulkit Jain</h3>
-								<h6>Co Founder </h6>
+								<h6>Co-Founder </h6>
 							</div>
 					</div>
 				</div>
@@ -557,7 +556,7 @@ http://www.templatemo.com/tm-486-new-event
 						<img src="images\anirudh.png" class="img-responsive" alt="anirudh">
 							<div class="speakers-thumb">
 								<h3>Anirudh Jain</h3>
-								<h6>Co Founder</h6>
+								<h6>Co-Founder</h6>
 							</div>
 					</div>
 				</div>
@@ -567,7 +566,7 @@ http://www.templatemo.com/tm-486-new-event
 						<img src="images\dikshita.png" class="img-responsive" alt="dikshita">
 							<div class="speakers-thumb">
 								<h3>Dikshita Koul</h3>
-								<h6>Co Founder</h6>
+								<h6>Co-Founder</h6>
 							</div>
 					</div>
 				</div>
@@ -577,7 +576,7 @@ http://www.templatemo.com/tm-486-new-event
 						<img src="images\chaitanya.png" class="img-responsive" alt="chaitanya">
 							<div class="speakers-thumb">
 								<h3>Chaitanya Gupta</h3>
-								<h6>Co Founder</h6>
+								<h6>Co-Founder</h6>
 							</div>
 					</div>
 				</div>
@@ -587,7 +586,7 @@ http://www.templatemo.com/tm-486-new-event
 						<img src="images\rajat.png" class="img-responsive" alt="rajat">
 							<div class="speakers-thumb">
 								<h3>Rajat Tiwari</h3>
-								<h6>Co Founder</h6>
+								<h6>Co-Founder</h6>
 							</div>
 					</div>
 				</div>
@@ -610,11 +609,11 @@ http://www.templatemo.com/tm-486-new-event
 
 			<div class="wow fadeInUp col-md-offset-1 col-md-5 col-sm-6" data-wow-delay="0.6s">
 				<div class="contact_des">
-					<h3>New Event</h3>
-					<p>Proin sodales convallis urna eu condimentum. Morbi tincidunt augue eros, vitae pretium mi condimentum eget. Suspendisse eu turpis sed elit pretium congue.</p>
-					<p>Mauris at tincidunt felis, vitae aliquam magna. Sed aliquam fringilla vestibulum. Praesent ullamcorper mauris fermentum turpis scelerisque rutrum eget eget turpis.</p>
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat. Lorem ipsum dolor.</p>
-					<a href="Blue Globe Vector College Trifold Brochure (2).pdf" download="brochure.pdf" class="btn btn-danger">DOWNLOAD BROCHURE</a>
+					<h3>BROCHURE</h3>
+					<p>To know more about the team and our vision check out our official brochure.
+						Click here to download the official brochure now.</p>
+
+					<a href="PAKKA FINAL.pdf" download="brochure.pdf" class="btn btn-danger">DOWNLOAD BROCHURE</a>
 				</div>
 			</div>
 
