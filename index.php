@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<link rel="icon" href="images/logo.png" type="image/gif">
 <title>Calibre Clinch</title>
 <meta name="description" content="">
 <meta name="author" content="">
@@ -584,6 +585,16 @@
 						<img src="images\rajat.png" class="img-responsive" alt="rajat">
 							<div class="speakers-thumb">
 								<h3>Rajat Tiwari</h3>
+								<h6>Co-Founder</h6>
+							</div>
+					</div>
+				</div>
+
+				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.5s">
+					<div class="speakers-wrapper">
+						<img src="images\bulbul.png" class="img-responsive" alt="rajat">
+							<div class="speakers-thumb">
+								<h3>Bulbul</h3>
 								<h6>Co-Founder</h6>
 							</div>
 					</div>
