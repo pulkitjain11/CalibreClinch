@@ -478,10 +478,13 @@
 
 			<div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s" style="padding-top:65px;">
 				<h3>Who Are We ?</h3>
-				<p>The educational technology company Caliber Clinch puts teamwork at the  
-					centre of the learning experience. Caliber Clinch education cloud links the individuals, material, and processes that fuel education, and provides 
-					monthly activities required to personalise education and optimise student 
-					outcomes.</p>
+				<p>The educational technology company 
+					Caliber Clinch puts teamwork at the centre
+					of the learning experience.Caliber Clinch education
+					cloud links the individuals, material, and processes
+					that fuel education, and provides monthly activities
+					required to personalise education and optimise 
+					student outcomes.</p>
 				<p>The method of teaching has remained the same for decades. The conventional method of teaching and offline schooling is plagued by numerous inefficiencies.
 					This business is made up of a community of college students who are aware of all the recent reforms in our education system and want to assist other fellow students to benefit from this.</p>
 			</div>
@@ -644,7 +647,7 @@
 				<p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2020 CALIBER CLINCH
 				<ul class="social-icon">
 					<li><a href="tel:9521404701" class="fa fa-phone wow fadeInUp" data-wow-delay="0.2s"></a></li>
-					<li><a href="mailto: calibreclinch@gmail.com" class="fa fa-envelope wow fadeInUp" data-wow-delay="0.4ss"></a></li>
+					<li><a href="mailto: support@calibreclinch.in" class="fa fa-envelope wow fadeInUp" data-wow-delay="0.4ss"></a></li>
 					<!-- <li><a href="#" class="fa fa-dribbble wow fadeInUp" data-wow-delay="1.6s"></a></li>
 					<li><a href="#" class="fa fa-behance wow fadeInUp" data-wow-delay="1.9s"></a></li>
 					<li><a href="#" class="fa fa-google-plus wow fadeInUp" data-wow-delay="2s"></a></li> -->
