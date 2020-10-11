@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!--
-New Event
-http://www.templatemo.com/tm-486-new-event
--->
 <title>Calibre Clinch</title>
 <meta name="description" content="">
 <meta name="author" content="">
