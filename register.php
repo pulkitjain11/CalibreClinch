@@ -61,7 +61,7 @@ include "connection.php";
                             <input class="input--style-3" type="text" placeholder="Class/Year" name="class"required>
                         </div>
                         <div class="p-t-10">
-                            <button class="btn btn--pill btn--green" type="submit"name="submit1">Register</button>
+                            <button class="btn btn--pill btn--green" type="submit"name="submit1">Register & Pay</button>
                         </div>
                         <div class="alert alert-success" id="success" style="margin-top:10px;display: none">
                           <strong>Success!</strong> Account Registration Successful!

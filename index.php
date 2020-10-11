@@ -478,13 +478,12 @@
 
 			<div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s" style="padding-top:65px;">
 				<h3>Who Are We ?</h3>
-				<p>The educational technology company 
-					Caliber Clinch puts teamwork at the centre
-					of the learning experience.Caliber Clinch education
-					cloud links the individuals, material, and processes
-					that fuel education, and provides monthly activities
-					required to personalise education and optimise 
-					student outcomes.</p>
+				<p>The educational technology company Caliber Clinch
+				puts teamwork at the centre	of the learning experience.
+				Caliber Clinch education cloud links the individuals,
+				material, and processes	that fuel education, and provides
+				monthly activities required to personalise education and
+				optimise student outcomes.</p>
 				<p>The method of teaching has remained the same for decades. The conventional method of teaching and offline schooling is plagued by numerous inefficiencies.
 					This business is made up of a community of college students who are aware of all the recent reforms in our education system and want to assist other fellow students to benefit from this.</p>
 			</div>
