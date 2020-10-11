@@ -644,7 +644,7 @@
 				<p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2020 CALIBER CLINCH
 				<ul class="social-icon">
 					<li><a href="tel:9521404701" class="fa fa-phone wow fadeInUp" data-wow-delay="0.2s"></a></li>
-					<li><a href="mailto: support@calibreclinch.in" class="fa fa-envelope wow fadeInUp" data-wow-delay="0.4ss"></a></li>
+					<li><a href="mailto: calibreclinch@gmail.com" class="fa fa-envelope wow fadeInUp" data-wow-delay="0.4ss"></a></li>
 					<!-- <li><a href="#" class="fa fa-dribbble wow fadeInUp" data-wow-delay="1.6s"></a></li>
 					<li><a href="#" class="fa fa-behance wow fadeInUp" data-wow-delay="1.9s"></a></li>
 					<li><a href="#" class="fa fa-google-plus wow fadeInUp" data-wow-delay="2s"></a></li> -->
