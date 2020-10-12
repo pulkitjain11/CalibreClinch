@@ -19,9 +19,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-PWB4XW3');</script>
 <!-- End Google Tag Manager -->
 
-    <link rel="icon" href="images/logo.png" type="image/gif">
+    <link rel="icon" href="images/favicon.png" type="image/gif">
 <title>Calibre Clinch</title>
-<meta name="description" content="">
+<meta name="description" content="Caliber Clinch education cloud links the individuals,
+material, and processes	that fuel education, and provides
+monthly activities required to personalise education and
+optimise student outcomes.">
 <meta name="author" content="">
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
