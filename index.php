@@ -647,7 +647,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<p>To know more about the team and our vision check out our official brochure.
 						Click here to download the official brochure now.</p>
 
-					<a href="PAKKA FINAL.pdf" download="brochure.pdf" class="btn btn-danger">DOWNLOAD BROCHURE</a>
+					<a href="brochure.pdf" download="brochure.pdf" class="btn btn-danger">DOWNLOAD BROCHURE</a>
 				</div>
 			</div>
 
