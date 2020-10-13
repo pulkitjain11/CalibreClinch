@@ -161,22 +161,10 @@ h6 {
 /* ==========================================================================
    #BACKGROUND
    ========================================================================== */
-.bg-blue {
-  background: #2c6ed5;
-}
 
-.bg-red {
-  background: #fa4251;
+body{
+  background-image: url('../images/bg1.png');
 }
-
-.bg-gra-01 {
-  background: -webkit-gradient(linear, left bottom, left top, from(#fbc2eb), to(#a18cd1));
-  background: -webkit-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
-  background: -moz-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
-  background: -o-linear-gradient(bottom, #fbc2eb 0%, #a18cd1 100%);
-  background: linear-gradient(to top, #fbc2eb 0%, #a18cd1 100%);
-}
-
 /* ==========================================================================
    #SPACING
    ========================================================================== */
@@ -208,7 +196,8 @@ h6 {
    #WRAPPER
    ========================================================================== */
 .wrapper {
-  margin: 0 auto;
+  margin: auto;
+  margin-top: -3.5%;
 }
 
 .wrapper--w960 {
@@ -226,8 +215,10 @@ h6 {
 /* ==========================================================================
    #BUTTON
    ========================================================================== */
+#regbtn{
+  width:100%;
+}
 .btn {
-  display: inline-block;
   line-height: 40px;
   padding: 0 33px;
   font-family: Poppins, Arial, "Helvetica Neue", sans-serif;
@@ -258,6 +249,7 @@ h6 {
 
 .btn--green:hover {
   background: #4dae3c;
+  color: #000;
 }
 
 /* ==========================================================================
@@ -496,7 +488,7 @@ input {
 }
 
 .card-3 .card-heading {
-  background: url(../images/register.png) top left/cover no-repeat;
+  background: url('../images/register.png') top left/cover no-repeat;
   display: table-cell;
   width: 50%;
 }
@@ -514,13 +506,27 @@ input {
   .card-3 .card-heading {
     display: block;
     width: 100%;
-    padding-top: 400px;
+    height:auto;
+    padding-top: 800px;
     background-position: center center;
   }
   .card-3 .card-body {
     display: block;
     width: 100%;
+    height:auto;
     padding: 37px 30px;
     padding-bottom: 45px;
   }
 }
+
+/* ==========================================================================
+   #NAVBAR
+   ========================================================================== */
+
+.navmain{
+    height: 50px;
+}
+
+/* ==========================================================================
+   #LOGO
+   ========================================================================== */
