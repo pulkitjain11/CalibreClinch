@@ -1,3 +1,6 @@
+<?php
+include "connection.php";
+ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -251,10 +254,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h6>
-								<span><i class="fa fa-calendar"></i> To be Disclosed</span>
+								<span><i class="fa fa-calendar"></i> 18 October 2020</span>
+                <span><i class="far fa-clock"></i>4:00-5:00 PM</span>
 							</h6>
-							<h3>Webinar</h3>
-							<p>Have a chance to talk to the expert and let yourself the privilege to decide your future with the right guidance and zero doubts.</p>
+							<h3>Free Webinar on Stock Market and Trading.</h3>
+							<!-- <p></p> -->
+                <a href="https://us04web.zoom.us/j/79924926012?pwd=ZEdnV1ZVdVg0dVFFbkltYmdPTVJwUT09">Click Here To Join</a> <br>
+                <p>Meeting ID: 799 2492 6012 <br>
+                  Passcode: 4HGuGz</p>
 						</div>
 
 						<!-- program divider -->
@@ -374,8 +381,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row">
 
 			<div class="wow fadeInUp col-md-7 col-sm-7" data-wow-delay="0.4s">
-				<h2>Register Here</h2>
-				<h3>Become a part of the family and Clinch your Calibre.</h3>
+				<h2>Get a call</h2>
+				<h3>Our team will get in touch with you as soon as we can.</h3>
 			</div>
 
 			<div class="wow fadeInUp col-md-5 col-sm-5" data-wow-delay="0.8s">
@@ -385,10 +392,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<input name="phone" type="telephone" class="form-control" id="phone" placeholder="Phone Number">
 					<input name="email" type="email" class="form-control" id="email" placeholder="Email Address">
 					<div class="col-md-offset-6 col-md-6 col-sm-offset-1 col-sm-10">
-						<input name="submit" type="submit"  onclick="notstarted()"class="form-control" id="submit" value="REGISTER">
-						<div class="alert alert-danger" id="failure" style="background-color: pink;width: 175px;border-radius:15px;font-size: 20px;margin-top: 5px;display:none;">
-							Event Registration Not Yet Started !<br>
-							</div>
+						<input name="submit1" type="submit"  class="form-control" id="submit1" value="REGISTER">
+            <div class="alert alert-success" id="success" style="margin-top:10px;display: none">
+    					<strong>Thank You!</strong> You will be contacted shortly!
+    				</div>
 					</div>
 				</form>
 			</div>
@@ -786,6 +793,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- Back top -->
 <a href="#back-top" class="go-top"><i class="fa fa-angle-up"></i></a>
 
+
+<?php
+if(isset($_POST["submit1"]))
+{
+  mysqli_query($link,"insert into to_be_contacted values(NULL,'$_POST[firstname]','$_POST[lastname]','$_POST[phone]','$_POST[email]')") or die(mysqli_error($link));
+  ?>
+  <script type="text/javascript">
+    document.getElementById("success").style.display="block";
+    document.getElementById("failure").style.display="none";
+    window.location="#register";
+  </script>
+
+  <?php
+}
+?>
 
 <!-- =========================
      SCRIPTS
