@@ -117,12 +117,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 
-				<!-- <div class="form-checkbox">
-					<label class="container"><p>I agree to the <a href="#" class="text">Terms and Conditions</a></p>
+        <div class="form-checkbox">
+					<label class="container"><p>I agree to the <a href="Privacy Policy.pdf" class="text">Terms and Conditions and Privacy Policy</a></p>
 					  	<input type="checkbox" name="checkbox">
 					  	<span class="checkmark"></span>
 					</label>
-				</div> -->
+				</div>
 				<div class="form-row-last">
 					<input type="submit" name="submit1" class="register" value="Register & Pay">
 				</div>
