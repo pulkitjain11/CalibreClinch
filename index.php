@@ -12,20 +12,20 @@
 </script>
 
 <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PWB4XW3');</script>
+})(window,document,'script','dataLayer','GTM-PWB4XW3');</script> -->
 <!-- End Google Tag Manager -->
 
     <link rel="icon" href="images/favicon.png" type="image/gif">
 <title>Calibre Clinch</title>
-<meta name="description" content="Caliber Clinch education cloud links the individuals,
+<meta name="description" content="">
+<meta name="author" content="Caliber Clinch education cloud links the individuals,
 material, and processes	that fuel education, and provides
 monthly activities required to personalise education and
 optimise student outcomes.">
-<meta name="author" content="">
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -79,8 +79,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#intro" class="smoothScroll">Intro</a></li>
+        <li><a href="mentorship.php">Mentorship</a></li>
 				<li><a href="#program" class="smoothScroll">Programs</a></li>
-				<li><a href="#register" class="smoothScroll">Register</a></li>
+        <li><a href="#register" class="smoothScroll">Register</a></li>
 				<!-- <li><a href="#venue" class="smoothScroll">Venue</a></li> -->
 				<!-- <li><a href="#sponsors" class="smoothScroll">Sponsors</a></li> -->
 				<li><a href="#aboutus" class="smoothScroll">About Us</a></li>
@@ -102,10 +103,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row">
 
 			<div class="col-md-12 col-sm-12" style="color:#1d617a">
-				<h3 class="wow bounceIn" data-wow-delay="0.9s">October 11-15</h3>
-				<h1 class="wow fadeInUp" data-wow-delay="1.6s">Recruiting Campus Ambassadors</h1>
-				<a href="#program" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">LEARN MORE</a>
-				<a href="register.php" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">REGISTER NOW</a>
+				<h3 class="wow bounceIn" data-wow-delay="0.5s">October 11-18</h3>
+				<h1 class="wow fadeInUp" data-wow-delay="0.8s">Recruiting Campus Ambassadors</h1>
+				<a href="#program" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="1.2s"style="color:black;">LEARN MORE</a>
+				<a href="register.php" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="1.2s">REGISTER NOW</a>
 			</div>
 
 
@@ -113,8 +114,64 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 </section>
 
+<!-- =========================
+    VIDEO SECTION
+============================== -->
+<section id="video" class="parallax-section">
+	<div class="container">
+		<div class="row">
 
+			<div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="0.5s">
+				<h2>Glimpse about us </h2>
+				 <!-- <h3>Quisque ut libero sapien. Integer tellus nisl, efficitur sed dolor at, vehicula finibus massa. Sed tincidunt metus sed eleifend suscipit.</h3> -->
+				<p>Cheers to those who have always seen things differently. Here's your chance to join us and make a difference. Grab the opportunity, hone your skills and stand out among your peers!<p>
+			</div>
+			<div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="0.7s">
+				<div class="embed-responsive embed-responsive-16by9">
+					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Dn63Rr9TvFQ" allowfullscreen></iframe>
+				</div>
+			</div>
 
+		</div>
+	</div>
+</section>
+
+<!-- =========================
+    Mentorship Programs
+============================== -->
+<section id="mentorship" class="parallax-section" style="padding-bottom:80px;padding-top:20px;">
+	<div class="container">
+		<div class="row">
+
+			<div class="wow bounceIn col-md-12 col-sm-12">
+				<div class="section-title">
+					<h2>Mentorship Programs</h2>
+				</div>
+			</div>
+
+			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.3s">
+				<img src="images/pic01.jpg" class="img-responsive" alt="stocks">
+        <p  style="margin-top:4px;padding-top:5px;font-size:17px;"><a style="color:black;" href="mentorship.php">Stock Trading</a></p>
+			</div>
+
+			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.6s">
+				<img src="images/pic02.jpg" class="img-responsive" alt="webdev">
+        <p  style="margin-top:4px;padding-top:5px;font-size:17px;"><a style="color:black;" href="mentorship.php">Web Development</a></p>
+			</div>
+
+			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.9s">
+				<img src="images/pic03.jpg" class="img-responsive" alt="photoshop">
+        <p  style="margin-top:4px;padding-top:5px;font-size:17px;"><a style="color:black;" href="mentorship.php">Photoshop</a></p>
+			</div>
+
+			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="1s">
+				<img src="images/pic04.jpg" class="img-responsive" alt="python">
+        <p  style="margin-top:4px;padding-top:5px;font-size:17px;"><a style="color:black;" href="mentorship.php">Python</a></p>
+			</div>
+
+		</div>
+	</div>
+</section>
 
 <!-- =========================
     DETAIL SECTION
@@ -146,29 +203,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 
 
-<!-- =========================
-    VIDEO SECTION
-============================== -->
-<!-- <section id="video" class="parallax-section">
-	<div class="container">
-		<div class="row">
-
-			<div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="1.3s">
-				<h2>Watch Video</h2>
-				<h3>Quisque ut libero sapien. Integer tellus nisl, efficitur sed dolor at, vehicula finibus massa. Sed tincidunt metus sed eleifend suscipit.</h3>
-				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet consectetuer diam nonummy.</p>
-			</div>
-			<div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="1.6s">
-				<div class="embed-responsive embed-responsive-16by9">
-					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XDPwXQjAlB0" allowfullscreen></iframe>
-				</div>
-			</div>
-
-		</div>
-	</div>
-</section>
- -->
-
 
 
 <!-- =========================
@@ -185,11 +219,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</div>
 			</div>
 
-			<div class="wow fadeInUp col-md-10 col-sm-10" data-wow-delay="0.9s">
+			<div class="wow fadeInUp col-md-10 col-sm-10" data-wow-delay="0.7s">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
 					<li class="active"><a href="#fday" aria-controls="fday" role="tab" data-toggle="tab">UPCOMING EVENTS</a></li>
-					<li><a href="#sday" aria-controls="sday" role="tab" data-toggle="tab">PAST EVENTS</a></li>
+					<!-- <li><a href="#sday" aria-controls="sday" role="tab" data-toggle="tab">PAST EVENTS</a></li> -->
 					<li><a href="#tday" aria-controls="tday" role="tab" data-toggle="tab">PROGRAMS</a></li>
 				</ul>
 				<!-- tab panes -->
@@ -241,9 +275,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div> -->
 					</div>
 
-					<div role="tabpanel" class="tab-pane" id="sday">
+					<!-- <div role="tabpanel" class="tab-pane" id="sday"> -->
 						<!-- program speaker here -->
-						<div class="col-md-2 col-sm-2">
+						<!-- <div class="col-md-2 col-sm-2">
 							<img src="images\b2sLogofavi.png" class="img-responsive" alt="program">
 						</div>
 						<div class="col-md-10 col-sm-10">
@@ -252,32 +286,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</h6>
 							<h3><a href="https://back2schoolvit.in/">Back-2-school</a> </h3>
 							<p>A national-level online event having almost 500 participants who competed in 3 different categories for exciting cash prizes.</p>
-						</div>
+						</div> -->
 
 						<!-- program divider -->
-						<div class="program-divider col-md-12 col-sm-12"></div>
+						<!-- <div class="program-divider col-md-12 col-sm-12"></div> -->
 
 						<!-- program speaker here -->
-						<div class="col-md-2 col-sm-2">
+						<!-- <div class="col-md-2 col-sm-2">
 							<img src="images\MATH-BEE.png" class="img-responsive" alt="program">
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h3>Mathbee</h3>
 							<p>A multiple round quiz to make students use their knowledge to solve multiple-choice questions in limited time. </p>
-						</div>
+						</div> -->
 
 						<!-- program divider -->
-						<div class="program-divider col-md-12 col-sm-12"></div>
+						<!-- <div class="program-divider col-md-12 col-sm-12"></div> -->
 
 						<!-- program speaker here -->
-						<div class="col-md-2 col-sm-2">
+						<!-- <div class="col-md-2 col-sm-2">
 							<img src="images\SPELL-BEE.png" class="img-responsive" alt="program">
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h3>Spellbee</h3>
 							<p>An event especially aiming to encourage participants to showcase their vocabulary and communication skills at a competitive level.</p>
 						</div>
-					</div>
+					</div> -->
 
 					<div role="tabpanel" class="tab-pane" id="tday">
 						<!-- program speaker here -->
@@ -432,6 +466,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    						 </div>
  					 </div>
 
+           <div class="panel panel-default">
+    						<div class="panel-heading" role="tab" id="headingFour">
+       						<h4 class="panel-title">
+         						<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+           							What will be my role as a campus ambassador?
+         						</a>
+       						</h4>
+     					</div>
+    						<div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+       						<div class="panel-body">
+                             	<p>Campus ambassadors will be responsible for spreading the word about Calibre clinch, the events and other such programmes. They will be convincing other students to take part and get enrolled in the events and programmes by letting them know the advantages of these.</p>
+         						<!-- <p>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet, wisi risus purus augue vulputate voluptate neque, curabitur dolor libero sodales vitae elit massa. Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet.</p> -->
+       						</div>
+    						 </div>
+  					 </div>
+
+             <div class="panel panel-default">
+      						<div class="panel-heading" role="tab" id="headingFive">
+         						<h4 class="panel-title">
+           						<a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+             							What are mentorship programmes?
+           						</a>
+         						</h4>
+       					</div>
+      						<div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+         						<div class="panel-body">
+                               	<p>These programmes will have experienced mentors who will be guiding, teaching and enlighting you with their knowledge. They will be available to clear all your doubts and assign you tasks to keep track of your progress.</p>
+           						<!-- <p>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet, wisi risus purus augue vulputate voluptate neque, curabitur dolor libero sodales vitae elit massa. Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet.</p> -->
+         						</div>
+      						 </div>
+    					 </div>
+
  				 </div>
 			</div>
 
@@ -470,25 +536,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class="wow bounceIn col-md-12 col-sm-12">
 				<div class="section-title">
-					<h2>Our Sponsors</h2>
+					<h2>Mentorship Programs</h2>
 					<p>Lorem ipsum dolor sit amet, maecenas eget vestibulum justo imperdiet.</p>
 				</div>
 			</div>
 
 			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.3s">
-				<img src="images/sponsor-img1.jpg" class="img-responsive" alt="sponsors">
+				<img src="images/pic01.jpg" class="img-responsive" alt="stocks">
 			</div>
 
 			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.6s">
-				<img src="images/sponsor-img2.jpg" class="img-responsive" alt="sponsors">
+				<img src="images/pic02.jpg" class="img-responsive" alt="sponsors">
 			</div>
 
 			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.9s">
-				<img src="images/sponsor-img3.jpg" class="img-responsive" alt="sponsors">
+				<img src="images/pic03.jpg" class="img-responsive" alt="sponsors">
 			</div>
 
 			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="1s">
-				<img src="images/sponsor-img4.jpg" class="img-responsive" alt="sponsors">
+				<img src="images/pic04.jpg" class="img-responsive" alt="sponsors">
 			</div>
 
 		</div>
@@ -615,20 +681,39 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				</div>
 
-
 				<div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.5s">
 					<div class="speakers-wrapper">
-						<img src="images\akshat.png" class="img-responsive" alt="rajat">
+						<img src="images\akshat.png" class="img-responsive" alt="akshat">
 							<div class="speakers-thumb">
 								<h3>Akshat Mundra</h3>
 								<h6>Co-Founder</h6>
 							</div>
 					</div>
 				</div>
-			</div>
 
-		</div>
-	</div>
+
+      <div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.5s">
+        <div class="speakers-wrapper">
+          <img src="images\zeba.png" class="img-responsive" alt="zeba">
+            <div class="speakers-thumb">
+              <h3>Zeba Mariam</h3>
+              <h6>Co-Founder</h6>
+            </div>
+        </div>
+      </div>
+
+    <div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.5s">
+      <div class="speakers-wrapper">
+        <img src="images\gurmeet.png" class="img-responsive" alt="gurmeet">
+          <div class="speakers-thumb">
+            <h3>Gurmeet Kaur</h3>
+            <h6>Co-Founder</h6>
+          </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
 </section>
 
 
@@ -647,7 +732,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<p>To know more about the team and our vision check out our official brochure.
 						Click here to download the official brochure now.</p>
 
-					<a href="brochure.pdf" download="brochure.pdf" class="btn btn-danger">DOWNLOAD BROCHURE</a>
+					<a href="brochure.pdff" download="brochure.pdf" class="btn btn-danger">DOWNLOAD BROCHURE</a>
 				</div>
 			</div>
 
@@ -679,14 +764,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12" style="text-align: center;">
-				<p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2020 CALIBER CLINCH
+				<p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2020 CALIBRE CLINCH
 				<ul class="social-icon">
 					<li><a href="tel:9521404701" class="fa fa-phone wow fadeInUp" data-wow-delay="0.2s"></a></li>
 					<li><a href="mailto: support@calibreclinch.in" class="fa fa-envelope wow fadeInUp" data-wow-delay="0.4ss"></a></li>
+          <li><a href="https://www.instagram.com/calibre.clinch/" class="fa fa-instagram" data-wow-delay="0.6s"></a></li>
 					<!-- <li><a href="#" class="fa fa-dribbble wow fadeInUp" data-wow-delay="1.6s"></a></li>
 					<li><a href="#" class="fa fa-behance wow fadeInUp" data-wow-delay="1.9s"></a></li>
 					<li><a href="#" class="fa fa-google-plus wow fadeInUp" data-wow-delay="2s"></a></li> -->
 				</ul>
+
+          <a href="Privacy Policy.pdf" style="color:black;">Privacy Policy</a>
+
 			</div>
 
 		</div>
@@ -711,7 +800,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="js/tilt.min.js"></script>
 <script>
   $(".tilt").tilt({
-    scale: 1.2,
+    scale: 1.5,
   });
 </script>
 <script type="text/javascript">
