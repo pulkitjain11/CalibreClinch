@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-md-12 col-sm-12" style="color:#1d617a">
 				<h3 class="wow bounceIn" data-wow-delay="0.5s">Oct 31-Nov 1</h3>
 				<h1 class="wow fadeInUp" data-wow-delay="0.8s">Brain-O-Mania</h1>
-				<a href="#program" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="1.2s"style="color:black;">LEARN MORE</a>
+			<a href="braino.pdf" download="Brain-O-Mania.pdf" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="1.2s"style="color:black;">LEARN MORE</a>
 				<a href="brainoregister.php" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="1.2s">REGISTER NOW</a>
 			</div>
 
