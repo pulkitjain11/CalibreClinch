@@ -65,7 +65,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="form-group">
 					<div class="form-row form-row-1">
 						<label for="first_name">First Name</label>
-						<input type="text" name="first_name" id="first_name" class="input-text">
+						<input type="text" name="first_name" id="first_name" class="input-text" required>
 					</div>
 					<div class="form-row form-row-1">
 						<label for="last_name">Last Name</label>
@@ -93,7 +93,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="form-group">
 					<div class="form-row form-row-1 ">
 						<label for="contact">Contact</label>
-						<input type="text" name="contact" id="contact" class="input-text" required>
+						<input type="text" name="contact" id="contact" class="input-text" pattern="[6-9]{1}[0-9]{9}" required>
 					</div>
 					<div class="form-row form-row-1">
 						<label for="school">School/College</label>
@@ -103,7 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="form-group">
 					<div class="form-row form-row-1 ">
 						<label for="class">Class/Year</label>
-						<input type="text" name="class" id="class" class="input-text" required>
+						<input type="number" name="class" id="class" class="input-text" min= "1" max= "15" required>
 					</div>
 					<div class="form-row form-row-1">
 						<label for="refer">Referred By</label>
