@@ -85,7 +85,7 @@ And finally how to Implement  conditional statements and file handling .</p>
 						<input type="password" name="password" id="password" class="input-text" required>
 					</div>
 					<div class="form-row form-row-1">
-						<label for="comfirm-password">Comfirm Password</label>
+						<label for="comfirm-password">Confirm Password</label>
 						<input type="password" name="comfirm_password" id="comfirm_password" class="input-text" required>
 					</div>
 				</div>

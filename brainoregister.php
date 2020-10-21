@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<input type="password" name="password" id="password" class="input-text" required>
 					</div>
 					<div class="form-row form-row-1">
-						<label for="comfirm-password">Comfirm Password</label>
+						<label for="comfirm-password">Confirm Password</label>
 						<input type="password" name="comfirm_password" id="comfirm_password" class="input-text" required>
 					</div>
 				</div>
