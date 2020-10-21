@@ -68,7 +68,7 @@ And finally how to Implement  conditional statements and file handling .</p>
 				<div class="form-group">
 					<div class="form-row form-row-1">
 						<label for="first_name">First Name</label>
-						<input type="text" name="first_name" id="first_name" class="input-text">
+						<input type="text" name="first_name" id="first_name" class="input-text" required>
 					</div>
 					<div class="form-row form-row-1">
 						<label for="last_name">Last Name</label>
@@ -96,7 +96,7 @@ And finally how to Implement  conditional statements and file handling .</p>
 				<div class="form-group">
 					<div class="form-row form-row-1 ">
 						<label for="contact">Contact</label>
-						<input type="text" name="contact" id="contact" class="input-text" required>
+						<input type="text" name="contact" id="contact" class="input-text" pattern="[6-9]{1}[0-9]{9}" required>
 					</div>
 					<div class="form-row form-row-1">
 						<label for="school">School/College</label>
@@ -106,7 +106,7 @@ And finally how to Implement  conditional statements and file handling .</p>
 				<div class="form-group">
 					<div class="form-row form-row-1 ">
 						<label for="class">Class/Year</label>
-						<input type="text" name="class" id="class" class="input-text" required>
+						<input type="number" name="class" id="class" class="input-text" min= "1" max= "15" required>
 					</div>
 					<div class="form-row form-row-1">
 						<label for="refer">Referred By</label>
@@ -138,7 +138,7 @@ And finally how to Implement  conditional statements and file handling .</p>
 	    if(isset($_POST["submit1"]))
 	    {
 	      $count=0;
-	      $res = mysqli_query($link,"select * from python where username='$_POST[username]'") or die(mysqli_error($link));
+	      $res = mysqli_query($link,"select * from pyreg where username='$_POST[username]'") or die(mysqli_error($link));
 	      $count = mysqli_num_rows($res);
 
 	      if($count>0)
@@ -151,7 +151,7 @@ And finally how to Implement  conditional statements and file handling .</p>
 	        <?php
 	      }
 	      else {
-	        mysqli_query($link,"insert into python values(NULL,'$_POST[first_name]','$_POST[last_name]','$_POST[username]','$_POST[password]','$_POST[email]','$_POST[contact]','$_POST[school]','$_POST[class]','$_POST[refer]')") or die(mysqli_error($link));
+	        mysqli_query($link,"insert into pyreg values(NULL,'$_POST[first_name]','$_POST[last_name]','$_POST[username]','$_POST[password]','$_POST[email]','$_POST[contact]','$_POST[school]','$_POST[class]','$_POST[refer]')") or die(mysqli_error($link));
 	        ?>
 	        <script type="text/javascript">
 	          document.getElementById("success").style.display="none";
