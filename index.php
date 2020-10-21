@@ -1,6 +1,7 @@
 <?php
 include "connection.php";
  ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<span class="icon icon-bar"></span>
 				<span class="icon icon-bar"></span>
 			</button>
-			<a href="index.php" class="navbar-brand">Calibre Clinch</a>
+			<a href="/" class="navbar-brand">Calibre Clinch</a>
 		</div>
 
 		<div class="collapse navbar-collapse">
@@ -84,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<li><a href="#intro" class="smoothScroll">Intro</a></li>
         <li><a href="mentorship.php">Mentorship</a></li>
 				<li><a href="#program" class="smoothScroll">Programs</a></li>
-        <li><a href="#register" class="smoothScroll">Register</a></li>
+        <li><a href="register.php" class="smoothScroll">Campus Ambassador</a></li>
 				<!-- <li><a href="#venue" class="smoothScroll">Venue</a></li> -->
 				<!-- <li><a href="#sponsors" class="smoothScroll">Sponsors</a></li> -->
 				<li><a href="#aboutus" class="smoothScroll">About Us</a></li>
@@ -106,10 +107,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="row">
 
 			<div class="col-md-12 col-sm-12" style="color:#1d617a">
-				<h3 class="wow bounceIn" data-wow-delay="0.5s">October 11-18</h3>
-				<h1 class="wow fadeInUp" data-wow-delay="0.8s">Recruiting Campus Ambassadors</h1>
+				<h3 class="wow bounceIn" data-wow-delay="0.5s">Oct 31-Nov 1</h3>
+				<h1 class="wow fadeInUp" data-wow-delay="0.8s">Brain-O-Mania</h1>
 				<a href="#program" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="1.2s"style="color:black;">LEARN MORE</a>
-				<a href="register.php" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="1.2s">REGISTER NOW</a>
+				<a href="brainoregister.php" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="1.2s">REGISTER NOW</a>
 			</div>
 
 
@@ -239,10 +240,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h6>
-								<span><i class="fa fa-calendar"></i> 29 OCT 2020</span>
+								<span><i class="fa fa-calendar"></i> 31 OCT-1 NOV</span>
 							</h6>
-							<h3>Brain-O-Mania</h3>
+							<h3><a href="brainoregister.php">Brain-O-Mania</a></h3>
 							<p>An online quiz to test the mental ability of the participants and also pushing them to be more efficient and accurate.</p>
+							<a href="brainoregister.php">Click Here To Register</a>
 						</div>
 
 						<!-- program divider -->
@@ -258,8 +260,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <span><i class="far fa-clock"></i>4:00-5:00 PM</span>
 							</h6>
 							<h3>Free Webinar on Stock Market and Trading.</h3>
-							<!-- <p></p> -->
-                <a href="https://us04web.zoom.us/j/79924926012?pwd=ZEdnV1ZVdVg0dVFFbkltYmdPTVJwUT09">Click Here To Join</a> <br>
+							<!--<p></p>-->
+                <a href="https://us04web.zoom.us/j/79924926012?pwd=ZEdnV1ZVdVg0dVFFbkltYmdPTVJwUT09">Click Here To Join</a><br>
                 <p>Meeting ID: 799 2492 6012 <br>
                   Passcode: 4HGuGz</p>
 						</div>
@@ -739,7 +741,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<p>To know more about the team and our vision check out our official brochure.
 						Click here to download the official brochure now.</p>
 
-					<a href="brochure.pdff" download="brochure.pdf" class="btn btn-danger">DOWNLOAD BROCHURE</a>
+					<a href="brochure.pdf" download="brochure.pdf" class="btn btn-danger">DOWNLOAD BROCHURE</a>
 				</div>
 			</div>
 
