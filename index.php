@@ -109,10 +109,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="col-md-12 col-sm-12" style="color:#1d617a">
 				<h3 class="wow bounceIn" data-wow-delay="0.5s">Oct 31-Nov 1</h3>
 				<h1 class="wow fadeInUp" data-wow-delay="0.8s">Brain-O-Mania</h1>
-			<a href="braino.pdf" download="Brain-O-Mania.pdf" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="1.2s"style="color:black;">LEARN MORE</a>
+				<a href="braino.pdf" download="Brain-O-Mania.pdf" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="1.2s"style="color:black;">LEARN MORE</a>
 				<a href="brainoregister.php" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="1.2s">REGISTER NOW</a>
 			</div>
-
 
 		</div>
 	</div>
@@ -227,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
 					<li class="active"><a href="#fday" aria-controls="fday" role="tab" data-toggle="tab">UPCOMING EVENTS</a></li>
-					<!-- <li><a href="#sday" aria-controls="sday" role="tab" data-toggle="tab">PAST EVENTS</a></li> -->
+					<li><a href="#sday" aria-controls="sday" role="tab" data-toggle="tab">PAST EVENTS</a></li>
 					<li><a href="#tday" aria-controls="tday" role="tab" data-toggle="tab">PROGRAMS</a></li>
 				</ul>
 				<!-- tab panes -->
@@ -248,10 +247,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div>
 
 						<!-- program divider -->
-						<div class="program-divider col-md-12 col-sm-12"></div>
+						<!-- <div class="program-divider col-md-12 col-sm-12"></div> -->
 
 						<!-- program speaker here -->
-						<div class="col-md-2 col-sm-2">
+						<!-- <div class="col-md-2 col-sm-2">
 							<img src="images\webinar.png" class="img-responsive" alt="program">
 						</div>
 						<div class="col-md-10 col-sm-10">
@@ -259,12 +258,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<span><i class="fa fa-calendar"></i> 18 October 2020</span>
                 <span><i class="far fa-clock"></i>4:00-5:00 PM</span>
 							</h6>
-							<h3>Free Webinar on Stock Market and Trading.</h3>
+							<h3>Free Webinar on Stock Market and Trading.</h3> -->
 							<!--<p></p>-->
-                <a href="https://us04web.zoom.us/j/79924926012?pwd=ZEdnV1ZVdVg0dVFFbkltYmdPTVJwUT09">Click Here To Join</a><br>
+                <!-- <a href="https://us04web.zoom.us/j/79924926012?pwd=ZEdnV1ZVdVg0dVFFbkltYmdPTVJwUT09">Click Here To Join</a><br>
                 <p>Meeting ID: 799 2492 6012 <br>
                   Passcode: 4HGuGz</p>
-						</div>
+						</div> -->
 
 						<!-- program divider -->
 						<div class="program-divider col-md-12 col-sm-12"></div>
@@ -284,18 +283,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						</div> -->
 					</div>
 
-					<!-- <div role="tabpanel" class="tab-pane" id="sday"> -->
+					 <div role="tabpanel" class="tab-pane" id="sday">
 						<!-- program speaker here -->
-						<!-- <div class="col-md-2 col-sm-2">
-							<img src="images\b2sLogofavi.png" class="img-responsive" alt="program">
+						<div class="col-md-2 col-sm-2">
+							<img src="images\webinar.png" class="img-responsive" alt="program">
 						</div>
 						<div class="col-md-10 col-sm-10">
 							<h6>
-								<span><i class="fa fa-calendar"></i> 3-4 OCT 2020</span>
+                <span><i class="fa fa-calendar"></i> 18 October 2020</span>
+                <span><i class="far fa-clock"></i>4:00-5:00 PM</span>
 							</h6>
-							<h3><a href="https://back2schoolvit.in/">Back-2-school</a> </h3>
-							<p>A national-level online event having almost 500 participants who competed in 3 different categories for exciting cash prizes.</p>
-						</div> -->
+							<h3>Free Webinar on Stock Market and Trading.</h3>
+              <p>Fascinated by the live graphs, shares, and Bitcoins? does the word equity, public stock, aggression, bring a frown to your faces? Attend this free session with our CEO Mohit Nuwal to know the basics of the Stock market and get to know how to invest wisely.</p>
+						</div>
+          </div>
 
 						<!-- program divider -->
 						<!-- <div class="program-divider col-md-12 col-sm-12"></div> -->
