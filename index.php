@@ -390,10 +390,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class="wow fadeInUp col-md-5 col-sm-5" data-wow-delay="0.8s">
 				<form action="" method="post">
-					<input name="firstname" type="text" class="form-control" id="firstname" placeholder="First Name">
+					<input name="firstname" type="text" class="form-control" id="firstname" placeholder="First Name" required>
 					<input name="lastname" type="text" class="form-control" id="lastname" placeholder="Last Name">
-					<input name="phone" type="telephone" class="form-control" id="phone" placeholder="Phone Number">
-					<input name="email" type="email" class="form-control" id="email" placeholder="Email Address">
+					<input name="phone" type="telephone" class="form-control" id="phone" placeholder="Phone Number" required>
+					<input name="email" type="email" class="form-control" id="email" placeholder="Email Address" required>
 					<div class="col-md-offset-6 col-md-6 col-sm-offset-1 col-sm-10">
 						<input name="submit1" type="submit"  class="form-control" id="submit1" value="REGISTER">
             <div class="alert alert-success" id="success" style="margin-top:10px;display: none">
