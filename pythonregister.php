@@ -126,8 +126,8 @@ And finally how to Implement  conditional statements and file handling .</p>
 				<div class="alert alert-success" id="success" style="margin-top:10px;display: none">
 					<strong>Success!</strong> Account Registration Successful!
 				</div>
-				<div class="alert alert-danger" id="failure" style="color: white;margin-top: 10px;display: none">
-					<strong>Already Exist!</strong> This usernames already exists!
+        <div class="alert alert-danger" id="failure" style="color: red;margin-top: 10px;display: none">
+					<strong>Username already exists!</strong> Please register with a different username!
 				</div>
 			</form>
 		</div>

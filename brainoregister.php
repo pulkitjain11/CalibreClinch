@@ -46,7 +46,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="page-content">
 		<div class="form-v4-content">
 			<div class="form-left">
-        <h2>PBRAIN-O-MANIA</h2>
+        <h2>BRAIN-O-MANIA</h2>
         <p class="text-1" style="font-size:18.5px;">Calibre Clinch brings you the event of the month!!</p>
         <p class="text-2" style="font-size:18px;">BRAIN-O-MANIA...... A 2-day event consisting of 2 rounds which will put to test the Logical Reasoning, Mathematical reasoning, Mental ability of the participants.</p>
         <p class="text-2" style="font-size:18px;">The first round will be an online mcqs test and the final round will be an oral round.</p>
@@ -88,7 +88,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<input type="password" name="password" id="password" class="input-text" required>
 					</div>
 					<div class="form-row form-row-1">
-						<label for="comfirm-password">Confirm Password</label>
+						<label for="comfirm-password">Comfirm Password</label>
 						<input type="password" name="comfirm_password" id="comfirm_password" class="input-text" required>
 					</div>
 				</div>
@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="form-group">
 					<div class="form-row form-row-1 ">
 						<label for="class">Class/Year</label>
-						<input type="number" name="class" id="class" class="input-text" min= "1" max= "15" required>
+						<input type="number" name="class" id="class" class="input-text" min= "1" max= "13" required>
 					</div>
 					<div class="form-row form-row-1">
 						<label for="refer">Referred By</label>
@@ -129,8 +129,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="alert alert-success" id="success" style="margin-top:10px;display: none">
 					<strong>Success!</strong> Account Registration Successful!
 				</div>
-				<div class="alert alert-danger" id="failure" style="color: white;margin-top: 10px;display: none">
-					<strong>Already Exist!</strong> This usernames already exists!
+				<div class="alert alert-danger" id="failure" style="color: red;margin-top: 10px;display: none">
+					<strong>Username already exists!</strong> Please register with a different username!
 				</div>
 			</form>
 		</div>
