@@ -634,7 +634,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="images\tarkesh.png" class="img-responsive" alt="tarkesh">
 							<div class="speakers-thumb">
 								<h3>Tarkesh Deore</h3>
-								<h6>Co-Founder</h6>
+								<h6>Management Head</h6>
 							</div>
 					</div>
 				</div>
@@ -644,7 +644,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="images\pulkit.png" class="img-responsive" alt="pulkit">
 							<div class="speakers-thumb">
 								<h3>Pulkit Jain</h3>
-								<h6>Co-Founder </h6>
+								<h6>Technical Head</h6>
 							</div>
 					</div>
 				</div>
@@ -656,7 +656,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="images\anirudh.png" class="img-responsive" alt="anirudh">
 							<div class="speakers-thumb">
 								<h3>Anirudh Jain</h3>
-								<h6>Co-Founder</h6>
+								<h6>Sponsorship & Finance Head</h6>
 							</div>
 					</div>
 				</div>
@@ -665,8 +665,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="speakers-wrapper">
 						<img src="images\dikshita.png" class="img-responsive" alt="dikshita">
 							<div class="speakers-thumb">
-								<h3>Dikshita Koul</h3>
-								<h6>Co-Founder</h6>
+								<h3>Dikshita Kaul</h3>
+								<h6>Documentation & Editorial Head</h6>
 							</div>
 					</div>
 				</div>
@@ -676,7 +676,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="images\chaitanya.png" class="img-responsive" alt="chaitanya">
 							<div class="speakers-thumb">
 								<h3>Chaitanya Gupta</h3>
-								<h6>Co-Founder</h6>
+								<h6>Media & Operation Head</h6>
 							</div>
 					</div>
 				</div>
@@ -686,7 +686,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="images\rajat.png" class="img-responsive" alt="rajat">
 							<div class="speakers-thumb">
 								<h3>Rajat Tiwari</h3>
-								<h6>Co-Founder</h6>
+								<h6>Design & Logistics Head</h6>
 							</div>
 					</div>
 				</div>
@@ -696,7 +696,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<img src="images\akshat.png" class="img-responsive" alt="akshat">
 							<div class="speakers-thumb">
 								<h3>Akshat Mundra</h3>
-								<h6>Co-Founder</h6>
+								<h6>Publicity & Marketing Head</h6>
 							</div>
 					</div>
 				</div>
@@ -707,7 +707,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <img src="images\zeba.png" class="img-responsive" alt="zeba">
             <div class="speakers-thumb">
               <h3>Zeba Mariam</h3>
-              <h6>Co-Founder</h6>
+              <h6>Social Media & Outreach Head</h6>
             </div>
         </div>
       </div>
@@ -717,7 +717,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="images\gurmeet.png" class="img-responsive" alt="gurmeet">
           <div class="speakers-thumb">
             <h3>Gurmeet Kaur</h3>
-            <h6>Co-Founder</h6>
+            <h6>Collaboration & Relation Head</h6>
           </div>
       </div>
     </div>
@@ -725,8 +725,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
   </div>
 </section>
-
-
 
 
 <!-- =========================
@@ -779,6 +777,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<li><a href="tel:9521404701" class="fa fa-phone wow fadeInUp" data-wow-delay="0.2s"></a></li>
 					<li><a href="mailto: support@calibreclinch.in" class="fa fa-envelope wow fadeInUp" data-wow-delay="0.4ss"></a></li>
           <li><a href="https://www.instagram.com/calibre.clinch/" class="fa fa-instagram" data-wow-delay="0.6s"></a></li>
+          <li><a href="https://www.linkedin.com/company/calibre-clinch" class="fa fa-linkedin" data-wow-delay="0.8s"></a></li>
 					<!-- <li><a href="#" class="fa fa-dribbble wow fadeInUp" data-wow-delay="1.6s"></a></li>
 					<li><a href="#" class="fa fa-behance wow fadeInUp" data-wow-delay="1.9s"></a></li>
 					<li><a href="#" class="fa fa-google-plus wow fadeInUp" data-wow-delay="2s"></a></li> -->
@@ -790,6 +789,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		</div>
 	</div>
+
 </footer>
 
 
