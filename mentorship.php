@@ -23,6 +23,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
 	<body>
 		<!-- Google Tag Manager (noscript) -->
@@ -183,9 +184,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<!-- Footer -->
 			<footer id="footer">
-
+				<div class="">
+					<ul>
+						<p style="font-size:25px;margin-bottom:0px;">
+							<a style="padding-right:10px;"href="tel:9521404701" class="fa fa-phone wow fadeInUp" data-wow-delay="0.2s"></a>
+							<a style="padding-right:10px;" href="mailto: support@calibreclinch.in" class="fa fa-envelope wow fadeInUp" data-wow-delay="0.4ss"></a>
+		          <a style="padding-right:10px;" href="https://www.instagram.com/calibre.clinch/" class="fa fa-instagram" data-wow-delay="0.6s"></a>
+		          <a style="padding-right:10px;" href="https://www.linkedin.com/company/calibre-clinch" class="fa fa-linkedin" data-wow-delay="0.8s"></a>
+						</p>
+					</ul>
+				</div>
 				<div class="Copyright" style="color:white;">
-						Copyright &copy; 2020 Calibre Clinch
+						Copyright &copy; 2020 Calibre Clinch<br>
+						<a style="color:white;" href="Privacy Policy.pdf" style="color:black;">Privacy Policy</a>
 				</div>
 			</footer>
 
