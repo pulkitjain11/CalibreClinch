@@ -183,7 +183,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="container">
 		<div class="row">
 
-			<div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
+      <div class="wow bounceIn col-md-12 col-sm-12" style="visibility: visible;animation-name: bounceIn;margin-bottom: 40px;margin-top: 0px;">
+				<div class="section-title">
+					<h2>Top Performing Campus Ambassadors</h2>
+				</div>
+			</div>
+
+			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.3s">
+				<img src="images/anubhav.png" class="img-responsive" alt="anubhav">
+        <p  style="margin-top:4px;padding-top:5px;font-size:17px;color:white;">Anubhav</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.6s">
+				<img src="images/aryan.png" class="img-responsive" alt="aryan">
+        <p  style="margin-top:4px;padding-top:5px;font-size:17px;color:white;">Aryan</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="0.9s">
+				<img src="images/shivani.png" class="img-responsive" alt="shivani">
+        <p  style="margin-top:4px;padding-top:5px;font-size:17px;color:white;">Shivani</p>
+			</div>
+
+			<div class="wow fadeInUp col-md-3 col-sm-6 col-xs-6" data-wow-delay="1s">
+				<img src="images/akash.png" class="img-responsive" alt="akash">
+        <p  style="margin-top:4px;padding-top:5px;font-size:17px;color:white;">Akash</p>
+			</div>
+
+			<!-- <div class="wow fadeInLeft col-md-4 col-sm-4" data-wow-delay="0.3s">
 				<i class="fa fa-group"></i>
 				<h3>500 Participants</h3>
 				<p>Participants from various educational institutions across the country provide a very competitive platform.</p>
@@ -199,7 +225,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<i class="fa fa-microphone"></i>
 				<h3>5 Speakers</h3>
 				<p>Get a chance to gain experience from the experienced through various webinars and seminars.</p>
-			</div>
+			</div> -->
 
 		</div>
 	</div>
